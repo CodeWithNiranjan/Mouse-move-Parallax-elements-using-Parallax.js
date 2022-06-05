@@ -3,7 +3,7 @@
 
 ## Installation
 
-Use [CDN]([https://cdnjs.cloudflare.com/ajax/libs/wavesurfer.js/1.0.52/wavesurfer.min.js](https://cdnjs.cloudflare.com/ajax/libs/parallax/3.1.0/parallax.min.js)) or [Download]([https://unpkg.com/wavesurfer.js](https://github.com/wagerfield/parallax)) it.
+Use [CDN](https://cdnjs.cloudflare.com/ajax/libs/parallax/3.1.0/parallax.min.js) or [Download](https://github.com/wagerfield/parallax) it.
 
 ```javascript
 <script src="https://cdnjs.cloudflare.com/ajax/libs/parallax/3.1.0/parallax.min.js"></script>
